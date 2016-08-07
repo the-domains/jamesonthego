@@ -1,0 +1,14 @@
+layout_spectrum: 0.3202106
+typography_spectrum: 0.07421452
+color:
+  saturation: 0.4465051
+  lightness: 0.8984898
+  brandStrength: 0.2806656
+  rhythmicContrast: 0.6878152
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: jamesonthego
