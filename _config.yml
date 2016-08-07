@@ -1,8 +1,17 @@
-layout_spectrum: 0.3202106
-typography_spectrum: 0.07421452
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.4465051
-  lightness: 0.8984898
   brandStrength: 0.2806656
   rhythmicContrast: 0.6878152
   brandColors:
@@ -11,4 +20,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  lightness: 0.8984898
+typography_spectrum: 0.08458646
+layout_spectrum: 1
 name: jamesonthego
