@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.08458646
 color:
   saturation: 0.4465051
   brandStrength: 0.2806656
@@ -21,6 +22,5 @@ color:
     - '#3A6EA5'
     - '#004E98'
   lightness: 0.8984898
-typography_spectrum: 0.08458646
 layout_spectrum: 1
 name: jamesonthego
