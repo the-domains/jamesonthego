@@ -4,12 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.08458646
 color:
   saturation: 0.4465051
@@ -22,5 +22,5 @@ color:
     - '#3A6EA5'
     - '#004E98'
   lightness: 0.8984898
-layout_spectrum: 0.8320802
+layout_spectrum: 0.7217538
 name: jamesonthego
